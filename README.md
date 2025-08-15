@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ALTIA INALE</h1>
-<h3 align="center">A Future Tech Admin Assistant</h3>
+<h3 align="center">A passionate Future Tech Admin Assistant</h3>
 
 <img align="right" alt="Coding Girl" width="300" src="https://media1.tenor.com/m/IF2JdxzmyN4AAAAC/coding-girl.gif" />
 
